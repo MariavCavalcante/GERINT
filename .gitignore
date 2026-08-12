@@ -1,0 +1,14 @@
+# Dependências
+node_modules/
+.DS_Store
+.env
+.env.local
+.vscode/
+.idea/
+*.log
+*.swp
+*.swo
+~*
+dist/
+build/
+.cache/
